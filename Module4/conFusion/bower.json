@@ -1,0 +1,22 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/SeanScriptFeeney/FullStackWebSpecialization",
+  "description": "Restaurant App",
+  "main": "",
+  "authors": [
+    "Sean Feeney"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
